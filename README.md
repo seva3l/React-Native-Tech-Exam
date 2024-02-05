@@ -1,3 +1,5 @@
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-05 at 14 14 34](https://github.com/seva3l/React-Native-Tech-Exam/assets/54838442/74b72912-401d-4997-9f0b-7f33f1c73b79)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
