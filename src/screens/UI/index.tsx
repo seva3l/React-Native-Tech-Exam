@@ -5,11 +5,11 @@ import styles from './_styles'
 import IMAGES from '../../../assets/files'
 
 export default function UIScreen() {
-  const VIDEO_URL = require('../../../assets/BigBuckBunny.mp4')
+  const VIDEO_URL = "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   return (
     <View style={styles.container}>
       <VideoPlayer 
-      videoUrl={VIDEO_URL}
+      videoUrl={{uri: VIDEO_URL}}
       thumbnails={IMAGES}
       />
     </View>
